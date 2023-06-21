@@ -3,7 +3,7 @@
 This is a web based application developed by health related based website in india
 ### This web based health application has been developed for the accomplishment of future ready talent internhip program launched by Microsoft,Future Skills Prime,quess,Githud and EY.
 **project Link**-https://gray-coast-0004e6f00.3.azurestaticapps.net
-**project demo video link**-
+**project demo video link**-https://youtu.be/xuCG62MDuHY
 
 ## Azure Technologies used for project
 - static web apps
