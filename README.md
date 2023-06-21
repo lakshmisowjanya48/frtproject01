@@ -1,7 +1,7 @@
 # frtproject01
 # Dentocare
-This is a web based application developed by health realted based website in india
-### This web based health application has been developed for the accomplishment of future ready talent internhip program launched by Microsoft,Future skills prime,quess,githud and EY.
+This is a web based application developed by health related based website in india
+### This web based health application has been developed for the accomplishment of future ready talent internhip program launched by Microsoft,Future Skills Prime,quess,Githud and EY.
 **project Link**-https://gray-coast-0004e6f00.3.azurestaticapps.net
 **project demo video link**-
 
@@ -14,7 +14,7 @@ This is a web based application developed by health realted based website in ind
 -Consist of graphical and visual innovative effects.
 -Had aesthetically pleasing visual design and architecture.
 -Consist collection of many web pages including home,contact,about,health bot and health related inforamtion etc
--Also Includes the feedback survey to increase the scope of improvemnt
+-Also Includes the feedback survey to increase the scope of improvement
 ## screenshots
 ## about -
 ![Screenshot (76)](https://github.com/lakshmisowjanya48/frtproject01/assets/109742084/80fcf991-2db7-445e-a29f-221c1a38d151)
